@@ -7,3 +7,4 @@
 - Writing Custom quries in Spring boot application 
 - understanding Rabbit MQ
 - creating the custom deserialser in kafka
+- updating the seed data to via reading CSV's
