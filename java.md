@@ -8,3 +8,4 @@
 - understanding Rabbit MQ
 - creating the custom deserialser in kafka
 - updating the seed data to via reading CSV's
+- Mysql quries all joins 
