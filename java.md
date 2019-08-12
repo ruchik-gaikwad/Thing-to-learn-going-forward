@@ -1,4 +1,4 @@
-- understanding all layers of the application after controller, service, implemtation
+- understanding all layers of the application after controller, service, implemtation(why and how they are lincked to the controller to creating the multiple services and impl)
 - Exception handling - try - catch
 - Abstract Classes, interfaces, Extends
 - All the CRUD Repository 
