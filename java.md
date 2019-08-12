@@ -1,0 +1,9 @@
+- understanding all layers of the application after controller, service, implemtation
+- Exception handling - try - catch
+- Abstract Classes, interfaces, Extends
+- All the CRUD Repository 
+- Caching in spring Boot
+- Neo4j and all the quries 
+- Writing Custom quries in Spring boot application 
+- understanding Rabbit MQ
+- creating the custom deserialser in kafka
