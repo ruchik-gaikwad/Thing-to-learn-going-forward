@@ -10,3 +10,4 @@
 - updating the seed data to via reading CSV's
 - Mysql quries all joins 
 - Debugging the java applications
+- Sentimental analysis useing stanford library
