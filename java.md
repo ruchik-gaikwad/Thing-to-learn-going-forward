@@ -11,3 +11,4 @@
 - Mysql quries all joins 
 - Debugging the java applications
 - Sentimental analysis useing stanford library
+- AutoWiring and bean creation
